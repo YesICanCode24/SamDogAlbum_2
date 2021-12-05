@@ -1,0 +1,12 @@
+com/example/project1android2/BuildConfig.java
+ com.example.project1android2.BuildConfig
+com/example/project1android2/database/AppDatabase_Impl.java
+ com.example.project1android2.database.AppDatabase_Impl
+ com.example.project1android2.database.AppDatabase_Impl$1
+com/example/project1android2/database/DogImageDao_Impl.java
+ com.example.project1android2.database.DogImageDao_Impl
+ com.example.project1android2.database.DogImageDao_Impl$1
+ com.example.project1android2.database.DogImageDao_Impl$2
+ com.example.project1android2.database.DogImageDao_Impl$3
+ com.example.project1android2.database.DogImageDao_Impl$4
+ com.example.project1android2.database.DogImageDao_Impl$5
